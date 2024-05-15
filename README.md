@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithendranath</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-- 🌱 I’m currently learning **React-JS**.
+- 🌱 I’m currently learning **React-JS**. 
 - 💬 Ask me about **HTML, CSS, JS , python**.
 - 📫 How to reach me **jithujithendranath8@gmail.com**
 
