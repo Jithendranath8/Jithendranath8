@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 - 🌱 I’m currently learning **React-JS**. 
-- 💬 Ask me about **HTML, CSS, JS , python**.
+- 💬 Ask me about **HTML, CSS, JS, GSAP, React, Java , python**.
 - 📫 How to reach me **jithujithendranath8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
