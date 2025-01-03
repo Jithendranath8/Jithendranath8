@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 - 🌱 I’m currently learning **React-JS**. 
-- 💬 Ask me about **HTML, CSS, JavaScript, GSAP, React, Java , python , Node.js , Express.js , Tailwind CSS , Prisma , MYSQL(basics) **.
-- 📫 How to reach me **jithendranath02@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, GSAP, React, Java , python , Node.js , Express.js , Tailwind CSS , Prisma , MYSQL , Mongoodb, websockets **.
+- 📫 How to reach me **akula.j23csai@nst.rishihood.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
