@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithendranath</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate Full Stack developer </h3>
 
-- 🌱 I’m currently learning **React-JS**. 
+- 🌱 I’m currently learning **NodeJS**. 
 - 💬 Ask me about **HTML, CSS, JavaScript, GSAP, React, Java , python , Node.js , Express.js , Tailwind CSS , Prisma , MYSQL , Mongoodb, websockets **.
 - 📫 How to reach me **akula.j23csai@nst.rishihood.edu.in**
 
