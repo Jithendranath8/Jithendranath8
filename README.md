@@ -1,23 +1,91 @@
-<h1 align="center">Hi 👋, I'm Jithendranath</h1>
-<h3 align="center">A passionate Full Stack developer </h3>
+# Hi, I'm Jithendranath Akula 👋
 
-- 🌱 I’m currently learning **NodeJS**. 
-- 💬 Ask me about **HTML, CSS, JavaScript, GSAP, React, Java , python , Node.js , Express.js , Tailwind CSS , Prisma , MYSQL , Mongoodb, websockets **.
-- 📫 How to reach me **akula.j23csai@nst.rishihood.edu.in**
+### Software Engineer | Backend Systems | AI/ML | Quantitative Trading Systems
 
-<h3 align="left">Connect with me:</h3>
+I'm a Computer Science & AI student at **Newton School of Technology, Rishihood University**, passionate about building scalable backend systems, intelligent applications, and performance-oriented software.
+
+- 💻 **Backend Engineering:** Node.js, Express.js, MySQL, MongoDB, Redis
+- 🤖 **AI/ML:** Python, Machine Learning, Model Evaluation, Computer Vision
+- 📈 **Quantitative Systems:** Market Data Streaming, Backtesting, Risk Management, Algorithmic Trading
+- ⚙️ **Infrastructure:** Docker, AWS, Git, REST APIs, WebSockets
+- 🚀 **Featured Project:** [QuantX](https://github.com/Jithendranath8/quantx) — An autonomous quantitative research and trading system
+- 🏆 **Experience:** Backend Developer Intern at RockED; reduced server load by 21% through backend optimizations.
+- 📫 **Email:** [akula.j23csai@nst.rishihood.edu.in](mailto:akula.j23csai@nst.rishihood.edu.in)
+
+---
+
+### Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/jithendran739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jithendran739" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jithendranath akula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendranath akula" height="30" width="40" /></a>
-<a href="https://fb.com/aklua jithendranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aklua jithendranath" height="30" width="40" /></a>
-<a href="https://instagram.com/jithendranath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jithendranath__" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jithendranath8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:akula.j23csai@nst.rishihood.edu.in">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithendranath8&show_icons=true&locale=en&layout=compact" alt="jithendranath8" /></p>
+### Tech Stack
 
+**Languages**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css" alt="Languages"/>
+</p>
 
+**Backend & Databases**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,redis,prisma" alt="Backend and databases"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,gsap" alt="Frontend technologies"/>
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,firebase" alt="Tools and infrastructure"/>
+</p>
+
+---
+
+### Featured Project
+
+#### [QuantX — Autonomous Quantitative Research & Trading System](https://github.com/Jithendranath8/quantx)
+
+Building a quantitative trading platform with market data streaming, AI-assisted technical analysis, backtesting, forward testing, risk controls, and exchange execution.
+
+- Real-time market data ingestion using Binance WebSockets
+- Multi-indicator technical analysis and deterministic signal validation
+- Backtesting engine with Monte Carlo simulation
+- Risk engine with circuit breakers and execution safeguards
+- Exchange integration with HMAC-signed orders and a kill switch
+
+---
+
+### GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jithendranath8&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithendranath8&layout=compact&theme=transparent&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Jithendranath8&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+*Building reliable systems. Exploring intelligent algorithms. Engineering for performance.*
